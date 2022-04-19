@@ -280,7 +280,7 @@ protegen contra tensiones sinusoidales constantes pero de amplitud más
 elevada, como los provocado por la rotura del neutro del transformador.
 
 
-3. Identificación de riesgos y medidas de seguridad
+Identificación de riesgos y medidas de seguridad
 ---------------------------------------------------
 
 ### Trabajos sin tensión. Cinco reglas de oro

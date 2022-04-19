@@ -215,7 +215,7 @@ actuaciones para cada situación de emergéncia.
 
 
 
-4. Prevención y seguridad en el montaje de instalaciones electrotécnicas y de telecomunicaciones
+4.- Prevención y seguridad en el montaje de instalaciones electrotécnicas y de telecomunicaciones
 ================================================================================================
 
 Elementos de protección de las instalaciones

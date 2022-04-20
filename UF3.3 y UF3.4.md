@@ -95,7 +95,7 @@ exhalaciones y a la vez, comprobar el movimiento del pecho:
 - Comprobar el pulso: Colocando indice y corazon en el cuello, al lado y
 por debajo de la nuez de Adán.
   <p align="center">
-    <figure style="display=inline-block">
+    <figure style="display:inline-block">
       <img src="img/fronto-menton.png" style="max-width:400px"/>
       <figcaption>Operación fronto-mentón</figcaption>
     </figure>

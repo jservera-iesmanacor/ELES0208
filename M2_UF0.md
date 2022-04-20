@@ -77,6 +77,6 @@ frecuencia de 10Hz
 El periodo es cuanto tiempo tarda el ciclo en repetirse, es la inversa
 de la frecuencia, es decir:
 
-<img src="https://latex.codecogs.com/svg.latex?T = {1 \over f} " />
+<img src="https://latex.codecogs.com/svg.latex?T={1\over%20f}" />
 
 

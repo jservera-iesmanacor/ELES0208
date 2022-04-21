@@ -40,10 +40,10 @@ frecuencia de 2Hz
 - La tercera se repite diez veces cada segundo, por lo que tiene una 
 frecuencia de 10Hz
 
-<p align="center">
-<img src="img/1Hz.png" width="60%"/>
-<img src="img/2Hz.png" width="60%" />
-<img src="img/10Hz.png" width="60%" />
+<p>
+<img src="img/1Hz.png" width="45%"/>
+<img src="img/2Hz.png" width="45%" />
+<img src="img/10Hz.png" width="45%" />
 </p>
 
 
@@ -52,11 +52,12 @@ frecuencia de 10Hz
 El periodo es cuanto tiempo tarda el ciclo en repetirse, es la inversa
 de la frecuencia, es decir:
 
-<p style="margin-left:40px">
+<blockquote>
 <img src="https://latex.codecogs.com/svg.latex?T={1\over%20f}" />
-</p>
+</blockquote>
 
-Donde:
+
+**Donde:**
 
 - **_T_** es el periodo
 - **_f_** es la frecuencia
@@ -72,20 +73,15 @@ tiene un periodo de 1 s, la de 2Hz tiene un periodo de 0.5s y la de
 Representa los valores limites de la onda, como de alto o bajo puede 
 llegar en el eje vertical. Suele representar la potencia de la onda.
 
-<figure>
-<img src="img/10Hz.png"/>
-<figcaption>A = 0.5</figcaption>
-</figure>
+- En la primera vemos una amplitud de 0.5
+- En la segunda una amplitud de 1
+- En la tercera una amplitud de 2
 
-<figure>
-<img src="img/Amp1.png" style="max-width:400px"/>
-<figcaption>A = 1</figcaption>
-</figure>
-
-<figure>
-<img src="img/Amp2.png" style="max-width:400px"/>
-<figcaption>A = 2</figcaption>
-</figure>
+<p>
+<img src="img/Amp0.5.png" width=45%/>
+<img src="img/Amp1.png" width=45%/>
+<img src="img/Amp2.png" width=45%/>
+</p>
 
 **Nota:** Todas estas figuras se generaron con 
 [Open Source Phisics](https://www.compadre.org/osp/EJSS/4018/128.htm)
@@ -114,10 +110,10 @@ por el aire se verá atenuada y no será bien recibida por la antena
 receptora. Otro ejemplo seria que la transmisión con frecuencias del 
 infrarojo no se propagan bien.
 
-<figure>
-<img src="img/absorcion-atmosferica.png"/>
-<figcaption>Absorcion atmosférica.<sup><a href="http://funnel.sfsu.edu/courses/metr104/F13/summaries/AbsorptionSpectra_Atmosphere.pdf">[fuente]</a></sup> </figcaption>
-</figure>
+<p align="center">
+<img src="img/absorcion-atmosferica.png" width=75%/><br/>
+<i>Absorción atmosférica</i>
+</p>
 
 
 La señal analógica y digital
@@ -166,11 +162,10 @@ En el primer caso hablamos de una señal AM (por las siglas de Amplitud
 Modulada), en el segundo hablamos de una señal FM (o Frecuencia 
 Modulada).
 
-<div align="center">
-<figure>
-<img src="img/AMyFM.png"/>
-<figcaption>Modulación AM y FM</figcaption>
-</figure></div>
+<p align="center">
+<img src="img/AMyFM.png" width="75%"/><br/>
+<i>Modulación FM y AM</i>
+</p>
 
 La señal de televisión además de sonido debe transmitir imagen. Por lo
 que en la época de la televisión analógica en blanco y negro parte del

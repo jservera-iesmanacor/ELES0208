@@ -40,18 +40,14 @@ frecuencia de 2Hz
 - La tercera se repite diez veces cada segundo, por lo que tiene una 
 frecuencia de 10Hz
 
-<p align="center"><img src="img/1Hz.png" width="400px"/></br>
-1Hz</p>
-
 <p align="center">
-<img src="img/2Hz.png" width="90%"/></br>
-2Hz</p>
+<img src="img/1Hz.png" width="60%"/>
+<img src="img/2Hz.png" width="60%" />
+<img src="img/10Hz.png" width="60%" />
+</p>
 
-<p align="center">
-<img src="img/10Hz.png" width="500px"/></br>
-10Hz</p>
 
-### Periodo
+### Periodo 
 
 El periodo es cuanto tiempo tarda el ciclo en repetirse, es la inversa
 de la frecuencia, es decir:

@@ -1,19 +1,3 @@
-<style>
-figure {
-    display: inline-block;
-    border: 1px solid gray;
-    margin: 20px;
-}
-figure img {
-    vertical-align: top;
-    max-width: 400px;
-}
-figure figcaption {
-    text-align: center;
-}
-</style>
-
-
 Conceptos básicos
 =================
 
@@ -56,10 +40,8 @@ frecuencia de 2Hz
 - La tercera se repite diez veces cada segundo, por lo que tiene una 
 frecuencia de 10Hz
 
-<figure>
-  <img src="img/1Hz.png" style="max-width:400px"/>
-  <figcaption>1Hz</figcaption>
-</figure>
+<p align="center"><img src="img/1Hz.png" width="400px"/></br>
+1Hz</p>
 
 <figure>
 <img src="img/2Hz.png" style="max-width:400px"/>

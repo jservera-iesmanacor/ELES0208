@@ -43,16 +43,13 @@ frecuencia de 10Hz
 <p align="center"><img src="img/1Hz.png" width="400px"/></br>
 1Hz</p>
 
-<figure>
-<img src="img/2Hz.png" style="max-width:400px"/>
-<figcaption>2Hz</figcaption>
-</figure>
+<p align="center">
+<img src="img/2Hz.png" width="90%"/></br>
+2Hz</p>
 
-<figure>
-<img src="img/10Hz.png" style="max-width:400px"/>
-<figcaption>10Hz</figcaption>
-</figure>
-
+<p align="center">
+<img src="img/10Hz.png" width="500px"/></br>
+10Hz</p>
 
 ### Periodo
 

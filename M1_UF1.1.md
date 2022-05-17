@@ -36,7 +36,7 @@ Internacional de Unidades (SI) es el voltio.
 
 En una analogía hidráulica la tensión sería la presión en una 
 tubería. Como indica la definición de la wikipedia su unidad es el 
-vóltio. Palabras con significado similar son: voltaje, tensión, 
+voltio. Palabras con significado similar son: voltaje, tensión, 
 diferencia de potencial y fuerza electromotriz.
 
 
@@ -49,7 +49,7 @@ denomina intensidad de corriente eléctrica (representada comúnmente con
 la letra I). En el Sistema Internacional de Unidades se expresa en 
 culombios por segundo (C/s), unidad que se denomina amperio (A).
 
-En una analogía hidràulica seria el caudal de agua, la cantidad de 
+En una analogía hidráulica seria el caudal de agua, la cantidad de 
 agua que pasa por una sección de tubería.
 
 
@@ -65,7 +65,7 @@ Cuanto más estrecho y largo es un cable, mayor resistencia presenta.
 De igual modo, cuanto peor conductor es un cable, mayor resistencia 
 opone (p.e. el aluminio tiene mayor resistencia que el cobre).
 
-La siguiente imagen muestra una analogia hidràulica de las tres 
+La siguiente imagen muestra una analogía hidráulica de las tres 
 magnitudes:
 
 <p align="center"><img src="img/resistencia.png"></p>
@@ -77,7 +77,9 @@ Ley de Ohm
 La ley de Ohm es la fórmula que relaciona todas estas magnitudes. Su
 expressión es la siguiente:
 
-$$ V = R \times I $$
+<blockquote>
+<img src="https://latex.codecogs.com/svg.latex?V=R%20\times%20I" />
+</blockquote>
 
 Donde:
 * V es el voltaje en voltios
@@ -103,7 +105,10 @@ La unidad en el Sistema Internacional de Unidades es el vatio o watt
 La fórmula que se utiliza para relacionar la potencia con la intensidad
 y el voltaje es:
 
-$$ P = V \times I $$
+<blockquote>
+<img src="https://latex.codecogs.com/svg.latex?P=V%20\times%20I" />
+</blockquote>
+
 
 Donde:
 * P es la potencia en vatios
@@ -114,10 +119,18 @@ Donde:
 Formulario y cheatsheet
 -----------------------
 
-|&nbsp;|&nbsp;|&nbsp|
-|------|------|-----|
-| $ P = V \times I $ | $ V = {P \over I} $ | $ I = {P \over V} $ |
-| $ V = R \times I $ | $ R = {V \over I} $ | $ I = {V \over R} $ |
+<table>
+	<tr>
+		<td><img src="https://latex.codecogs.com/svg.latex?P={V%20\times%20I}" /></td>
+		<td><img src="https://latex.codecogs.com/svg.latex?V={P%20\over%20I}" /></td>
+		<td><img src="https://latex.codecogs.com/svg.latex?I={P%20\over%20V}" /></td>
+	</tr>
+	<tr>
+		<td><img src="https://latex.codecogs.com/svg.latex?V=R%20\times%20I" /></td>
+		<td><img src="https://latex.codecogs.com/svg.latex?R={V%20\over%20I}" /></td>
+		<td><img src="https://latex.codecogs.com/svg.latex?I={V%20\over%20R}" /></td>
+	</tr>
+</table>
 
 <p>&nbsp;</p>
 
@@ -125,7 +138,7 @@ Formulario y cheatsheet
 |:---------:|:------------:|:------:|:------------:|
 |Potencia   |P             |vatios  |W             |
 |Voltaje    |V             |voltios |V             |
-|Intesidad  |I             |amperios|A             |
+|Intensidad |I             |amperios|A             |
 |Resistencia|R             |ohmios  |Ω             |
 
 
@@ -142,13 +155,13 @@ fondo de escala.
 
 Algunos también tienen varios bornes de conexión según la magnitud a
 medir, y finalmente algunos también disponen de pinza amperimétrica para
-medir la intensidad sin necesidad de desconectar ningun elemento de la
+medir la intensidad sin necesidad de desconectar ningún elemento de la
 instalación.
 
-En clase utilizaremos un polimetro con pinza amperimétrica Electraline
+En clase utilizaremos un polímetro con pinza amperimétrica Electraline
 modelo 59505.
 
-**Posiciones habituales del polimetro**
+**Posiciones habituales del polímetro**
 
 * **Intensidad:** colocando la rueda en el simbolo **A~ (200)** y sin 
 necesidad del uso de bornes.(ver imagen 1).
@@ -164,48 +177,9 @@ negro conectado al borne **COM** y el cable rojo en el borne **Ω** (ver
 imagen 4).
 * **Apagado** colocando la rueda en el símbolo **OFF** ver (imagen 5)
 
-
-
-<table>
-  <tr>
-    <td>
-      <figure style="display=inline-block">
-          <img src="img/poli_intensidad.jpg" style="max-width:400px"/>
-          <figcaption>imagen 1</figcaption>
-      </figure>
-    </td>
-
-    <td>
-      <figure style="display=inline-block">
-        <img src="img/poli_voltaje.jpg" style="max-width:400px"/>
-        <figcaption>imagen 2</figcaption>
-      </figure>
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      <figure>
-          <img src="img/poli_resistencia.jpg" style="max-width:400px"/>
-          <figcaption>imagen 3</figcaption>
-      </figure>
-    </td>
-
-    <td>
-      <figure>
-          <img src="img/poli_continuidad.jpg" style="max-width:400px"/>
-          <figcaption>imagen 4</figcaption>
-      </figure>
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      <figure>
-          <img src="img/poli_apagado.jpg" style="max-width:400px"/>
-          <figcaption>imagen 5</figcaption>
-      </figure>
-    </td>
-    <td></td>
-  </tr>
-</table>
+<p align="center">
+<img src="img/poli_intensidad.jpg" width="500">
+<img src="img/poli_voltaje.jpg" width="500"/>
+<img src="img/poli_resistencia.jpg" width="500"/>
+<img src="img/poli_continuidad.jpg" width="500"/>
+<img src="img/poli_apagado.jpg" width="500">

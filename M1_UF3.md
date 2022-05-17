@@ -24,7 +24,7 @@ El trabajo y la salud
 
 A través del trabajo por una parte se producen bienes y servicios y 
 por otra cubrimos parte de nuestras necesidades personales, desde las
-más bàsicas hasta las más elevadas (piramide de Maslow).
+más básicas hasta las más elevadas (pirámide de Maslow).
 
 No obstante para realizar según que tareas precisamos de cierto grado de
 salud y por otra parte realizar las tareas sin los conocimientos y
@@ -36,7 +36,7 @@ métodos adecuados puede repercutir en nuestra salud.
 Riesgos profesionales
 ---------------------
 
-Todas las actividades porfesionales conllevan un riesgo. La ley 31/1995
+Todas las actividades profesionales conllevan un riesgo. La ley 31/1995
 define **riesgo laboral** como la posibilidad de que un trabajador sufra
 un determinado daño derivado del trabajo.
 
@@ -86,7 +86,7 @@ Son accidentes de trabajo los siguientes:
 
 - Accidentes _in itinere_, es decir al ir o al volver del trabajo
 - Accidentes ocurridos en las acciones sindicales
-- Accidentes ocurridos en acciones por el interes de la empresa o por
+- Accidentes ocurridos en acciones por el interés de la empresa o por
   indicación del empresario aunque sean distintos a los riesgo de una
   determinada actividad laboral
 - Accidentes ocurridos por imprudencias fruto de la confianza.
@@ -115,7 +115,7 @@ sustancias, las causadas por agentes carcinogénicos.
 ### Otras patologías derivadas del trabajo
 
 A consecuencia de una mala prevención pueden desarrollarse otras 
-patologias, entre las que destacan:
+patologías, entre las que destacan:
 
 - Carga de trabajo
 - Fatiga
@@ -135,7 +135,7 @@ prosperidad de empresa y trabajador.
 
 
 
-2. Riesgos generales y su prevención.
+2.- Riesgos generales y su prevención.
 =====================================
 
 Índice
@@ -193,7 +193,7 @@ la actividad requiera.
 Riesgos en la manipulación de sistemas e instalaciones
 ------------------------------------------------------
 
-Se analizan sistemas e instalaciones que no tienen consideracion de
+Se analizan sistemas e instalaciones que no tienen consideración de
 máquinas como son:
 
 - Equipos a presión
@@ -203,22 +203,22 @@ máquinas como son:
 - Instalaciones eléctricas
 - Almacenamiento de productos químicos
 - Instalaciones de calefacción, climatización y ACS
-- Instalaiones frigoríficas
+- Instalaciones frigoríficas
 - Ascensores. y aparatos de elevación
 - Instalaciones nucleares y radioactivas
 - Instalación y utilización de aparatos de rayos X.
 
 Para cada una de estas instalaciones existen Reglamentos e ITCs
 complementarias, como el RD 842/2002 de para instalaciones eléctricas o
-el RD 809/2021 para los equipos a presión. El simpla cumplimiento de
+el RD 809/2021 para los equipos a presión. El simple cumplimiento de
 estos reglamentos ya crea un considerable marco de seguridad.
 
 No obstante al trabajar con estas instalaciones en concreto puede ser
-necesario adoptar medidas adicionales (llevar explosimetro, prendas de
+necesario adoptar medidas adicionales (llevar explosímetro, prendas de
 abrigo, etc.)
 
 
-Riesgos en el alacenamiento y transporte de cargas
+Riesgos en el almacenamiento y transporte de cargas
 --------------------------------------------------
 En general el transporte de cargas deberá ser mecanizado. Aun así
 existen los siguientes riesgos laborales:
@@ -227,17 +227,17 @@ existen los siguientes riesgos laborales:
 por ejemplo atropello, vuelco, o golpes con elementos activos.
 - **Los debidos a los elementos estructurales** Falla, o vuelco de
 estanterías por ejemplo.
-- **Debidos a la caida de cargas**
+- **Debidos a la caída de cargas**
 
 Las medidas preventivas son:
 
 - Estudio del suelo
 - Estudio del sistema de trabajo
 - Planificación de dimensiones, pesos y localización de cargas
-- EStabilidad y resistencia estructural de soportes, estanterias
-- Protección de las estanterias frente a golpes.
+- Estabilidad y resistencia estructural de soportes, estanterías
+- Protección de las estanterías frente a golpes.
 - Planificación de los pasillos de circulación y servicio
-- Señalozacion de pasillos, limites de carga, cruces y cualquier tipo de
+- Señalización de pasillos, limites de carga, cruces y cualquier tipo de
 riesgo
 - Buena iluminación
 - Buen mantenimiento
@@ -266,7 +266,7 @@ las radiaciones. Pueden causar deshidratación, golpes de calor,
 congelación y fatiga o causar un accidente laboral.
 
 - **Agentes químicos o biológicos:** Su entrada en el organismo son por
-vias respiratorias, dermis, via digestiva y via parenteral, como el
+vias respiratorias, dermis, vía digestiva y vía parenteral, como el
 amianto, el mercurio, ácidos o bases fuertes.
 
 - **Biológicos:** Como bacterias, virus, hongos y parásitos.
@@ -306,15 +306,15 @@ Se originan por tener que procesar demasiada información o que esta
 información sea excesivamente compleja para el tiempo del que se
 dispone.
 
-Su consecuencias se manifiestan como cefaeas, ansiedad, insomnio, 
+Su consecuencias se manifiestan como cefaleas, ansiedad, insomnio, 
 agresividad, depresión, etc.
 
 Para combatir la fatiga mental puede ser necesario mejorar los hábitos
-de alimentación, descanso y ejercicio. Realizar pausas en el rabajo y
+de alimentación, descanso y ejercicio. Realizar pausas en el trabajo y
 redistribur la carga de trabajo.
 
 ### Insatisfacción laboral
-Es la perdida de interes que experimenta un trabajador en su desempeño.
+Es la perdida de interés que experimenta un trabajador en su desempeño.
 
 Las causas suelen estar relacionadas con un nivel alto de fatiga y baja
 compensación. Las consecuencias son perdidas de concentración, de 
@@ -338,7 +338,7 @@ Se busca desarrollar técnicas preventivas que logran reducir los
 accidentes laborales.
 
 Existen dos grandes grupos de medidas: la colectiva y la individual. 
-Prefiriendose la primera sobre la segunda.
+Prefiriéndose la primera sobre la segunda.
 
 ### Protección colectiva
 Aquellas que protegen a todos los trabajadores. Como las barandillas de
@@ -387,10 +387,10 @@ Se enumeran a continuación los diferentes tipos de accidentes:
 - Atrapamiento por o entre objetos
 - Atrapamiento por vuelco de máquinas o vehículos
 - Sobresfuerzos
-- Exposicion a temperaturas mbientales extremas
+- Exposición a temperaturas ambientales extremas
 - Contactos térmicos
 - Contactos eléctricos directos
-- Contctos eléctricos indirectos
+- Contactos eléctricos indirectos
 - Exposición a substancias nocivas o tóxicas
 - Contactos con sustancias cáusticas o corrosivas
 - Exposición a radiaciones
@@ -402,7 +402,7 @@ Se enumeran a continuación los diferentes tipos de accidentes:
 Alguna de las causas que pueden dar lugar a estos accidentes son:
 
 - Zonas de operación desprotegidas (por ejemplo arquetas).
-- Ausencia de alarmas (por ejemplo marcha atras carretilla)
+- Ausencia de alarmas (por ejemplo marcha atrás carretilla)
 - Paro de emergencias inexistente o defectuoso
 - Productos peligrosos no identificados
 - Inestabilidad en el almacenaje
@@ -410,7 +410,7 @@ Alguna de las causas que pueden dar lugar a estos accidentes son:
 - Aberturas y huecos desprotegidos
 - Escaleras inseguras o en mal estado
 - Falta de orden y limpieza
-- Iluminación oncorrecta
+- Iluminación incorrecta
 - Uso indebido de herramientas o útiles de trabajo
 - Fatiga física
 - Fatiga mental
@@ -425,7 +425,7 @@ La falta de oxígeno en el cerebro causa lesiones irreversibles en el
 mismo en muy poco tiempo. Por ello la rapidez en la actuación es vital.
 
 Cuando se produce un accidente se debe atender en la secuencia de 
-acciones que idetifican la sigla **PAS**
+acciones que identifican la sigla **PAS**
 
 - **Proteger** Se debe proteger tanto al accidentado como a uno mismo.
 - **Avisar** A los servicios de emergencias (112)
@@ -438,49 +438,36 @@ aislado.
 Una vez hemos llegado al paso de socorrer. Llevaremos  cabo una
 evaluación primaria:
 
-- Comprobar si el accidentado se encuentra consciente (hablandole, 
+- Comprobar si el accidentado se encuentra consciente (hablándole, 
 mediante estimulo doloroso)
 
 - Comprobar respiración: Acercando nuestra oreja a las vías 
-respiratorias, y miranco hacia el pecho, para oir las inhalaciones y 
+respiratorias, y mirando hacia el pecho, para oír las inhalaciones y 
 exhalaciones y a la vez, comprobar el movimiento del pecho:
 
 
 
 - Comprobar el pulso: Colocando indice y corazon en el cuello, al lado y
 por debajo de la nuez de Adán.
-  <p align="center">
-    <figure style="display:inline-block">
-      <img src="img/fronto-menton.png" style="max-width:400px"/>
-      <figcaption>Operación fronto-mentón</figcaption>
-    </figure>
-  </p>
+  <p align="center"><img src="img/pulso.png" width="200"/></p>
 
 
 Socorrismo
 ----------
 
-Realizada la evaluación promaria del accidentado, se procederá a:
+Realizada la evaluación primaria del accidentado, se procederá a:
 
 - En caso de que respire se le colocara en PLS o Posición lateral de
   seguridad.
-  <p align="center">
-    <figure style="display=inline-block">
-      <img src="img/PLS.png" style="max-width:400px"/>
-      <figcaption>Posición Lateral de Seguridad</figcaption>
-    </figure>
-  </p>
+  <p align="center"><img src="img/PLS.png" width="400"/></p>
+  
 - En caso de que no respire, se le colocará en posición de decúbito
   supino. Estirado y mirando hacia arriba. Y se comprobará que no 
   tiene cuerpos extraños. Finalmente se realizará la maniobra 
   fronto-menton e hiperextensión del cuello (una mano empuja hacia 
   abajo y la otra estira de la nuca hacia arriba).
-  <p align="center">
-    <figure style="display=inline-block">
-      <img src="img/fronto-menton.png" style="max-width:400px"/>
-      <figcaption>Operación fronto-mentón</figcaption>
-    </figure>
-  </p>
+  <p align="center"><img src="img/fronto-menton.png" width="250"/></p>
+
 
 - Si la respiración no se reinicia será necesario realizar la 
   respiración artificial:
@@ -495,32 +482,32 @@ Realizada la evaluación promaria del accidentado, se procederá a:
 cardiopulmonar):
     1. Si tenemos un desfibrilador. Es suficiente seguir las 
        indicaciones. En caso contrario, seguiremos con los pasos 2 y 3.
-    2. Colocar las manos cruzadas en el externon (entre las costillas).
+    2. Colocar las manos cruzadas en el externón (entre las costillas).
     3. Realizar 30 compresiones por cada 2 ventilaciones.
 
 
 Situaciones de emergencia
 -------------------------
 
-Existen varias situaciones de emergencias que deberan ser analizadas y
+Existen varias situaciones de emergencias que deberán ser analizadas y
 adoptar las medidas necesarias en evacuación de trabajadores, lucha
 contra-incendios y primeros auxilios. Se designará personal encargado de
-su puesta en práctica y se comprobará periodicamente su rápidez, 
+su puesta en práctica y se comprobará periódicamente su rapidez, 
 eficacia y buen funcionamiento.
 
-Existen varias situciones dependiendo de su gravedad:
+Existen varias situaciones dependiendo de su gravedad:
 - Conato de emergencia
 - Emergencia parcial
 - Emergencia general
 - Evacuación
 
 Las acciones a tomar son:
-- Alertar ráapidamente
-- Activar alarmas de evacuacion
+- Alertar rápidamente
+- Activar alarmas de evacuación
 - Intervenir para controlar la emergencia
 - Apoyar a los servicios de ayuda exterior.
 
-Es importante **centralizar el contro de emergencias en un mismo lugar**
+Es importante **centralizar el control de emergencias en un mismo lugar**
 por ejemplo, la oficina técnica, la recepción, etc.
 
 
@@ -538,10 +525,10 @@ estos pasos:
 - No hacer uso de ascensores
 - Cerrar puestas y ventanas que se encuentren en el camino
 - Dirigirse (si existe al punto de reunión).
-- Si hay humo, desplazarse agachado y con un pañuelo humedo sobre la 
-  boca y naríz.
+- Si hay humo, desplazarse agachado y con un pañuelo húmedo sobre la 
+  boca y nariz.
 - Si se prende la ropa rodar por el suelo.
-- Si se está atrapado tapar con trapos humedos las rendijas y hacer
+- Si se está atrapado tapar con trapos húmedos las rendijas y hacer
   notar la presencia hasta ser rescatado.
 
 
@@ -553,19 +540,14 @@ acciones a llevar a cabo en una situación de emergencia por cada
 trabajador.
 
 En la **ficha individual de actuación** se indican de manera resumida, 
-las acciones a efectuar según la situaión de emergencia según el puesto
+las acciones a efectuar según la situación de emergencia según el puesto
 de trabajo
+  <p align="center"><img src="img/ficha-actuacion.png" width="400"/><br/>
+  Ficha individual de actuación</p>
 
-  <p align="center">
-    <figure style="display=inline-block">
-      <img src="img/ficha-actuacion.png" style="max-width:400px"/>
-      <figcaption>Ficha individual de actuación</figcaption>
-    </figure>
-  </p>
 
 Los **carteles divulgativos** presentan de forma esquematica las 
 actuaciones para cada situación de emergéncia.
-
 
 
 
@@ -586,10 +568,10 @@ elementos, explosiones, etc.
 Las instalaciones se protegen de los cortocircuitos mediante:
 
 - **Fusibles:** (elementos que se funden al circular por ellos una 
-intensidad más  elevada que su calibre, desconectando la instalacion una
+intensidad más  elevada que su calibre, desconectando la instalación una
 vez fundidos).
 - **Interruptores Magnetotérmicos:** Tienen una parte magnética que
-actua debido a los cortocircuitos, disparando el interruptor. Este, una
+actuá debido a los cortocircuitos, disparando el interruptor. Este, una
 vez solucionado el problema, puede ser rearmado.
 
 ### Elementos de protección contra sobrecargas
@@ -610,22 +592,17 @@ de elementos aislantes
 iluminación de las piscinas
 - Conexiones equipotenciales
 - Puesta a tierra de las partes metálicas
-  <p align="center">
-    <figure style="display=inline-block">
-      <img src="img/puesta-a-tierra.png" style="max-width:400px"/>
-      <figcaption>Esquema de puesta a tierra</figcaption>
-    </figure>
-  </p>
+
+  <p align="center"><img src="img/puesta-a-tierra.png" width="400"/><br/>
+  Esquema de puesta a tierra</p>
+  
 - Uso de interruptores diferenciales, que al detectar una fuga (que 
-podria ser a traves de una persona) desconectan la alimentación del 
+podría ser a través de una persona) desconectan la alimentación del 
 circuito.
 
-  <p align="center">
-    <figure style="display=inline-block">
-      <img src="img/derivacion.png" style="max-width:400px"/>
-      <figcaption>protección por diferencial</figcaption>
-    </figure>
-  </p>
+  <p align="center"><img src="img/derivacion.png" width="400"/><br/>
+  protección por diferencia</p>
+
 
 ### Elementos de protección contra sobretensiones
 Existen dos tipos de protecciones contra sobretensiones los primeros
@@ -647,12 +624,8 @@ Las cinco reglas de oro para trabajos sin tensión de forma segura son:
 4. Puesta a tierra y en cortocircuito de las fuentes de tensión
 5. Delimitar y señalizar la zona de trabajo
 
-  <p align="center">
-    <figure style="display=inline-block">
-      <img src="img/reglas-de-oro.png" style="max-width:400px"/>
-      <figcaption>5 reglas de oro</figcaption>
-    </figure>
-  </p>
+  <p align="center"><img src="img/reglas-de-oro.png"" width="400"/></p>
+
 
 Una vez realizados los trabajos se restablecerá el servicio con los
 siguientes pasos:
@@ -671,7 +644,7 @@ de trabajo:
 - Escaleras de mano
 - Andamios
 - Sistema de acceso mediante cuerda
-- Plataformas Elevadoras Móviles d ePersonal
+- Plataformas Elevadoras Móviles de Personal
 - Transelevadores, con operador a bordo.
 
 El orden de preferencia en cuanto a la elección de medios auxiliares
@@ -688,7 +661,7 @@ No se debe utilizar una escalera metálica para trabajos eléctricos.
 Se recomienda la adopción de las medidas que aparecen en la NTP-239,
 entre ellas:
 
-- Instalación de dispositivos anticaidas.
+- Instalación de dispositivos anticaídas.
 - Estabilidad de las escaleras: apoyadas sobre superficie no
 resbaladiza, resistente y segura y su parte superior no se debe apoyar 
 sobre superficies resbaladizas, columnas redondas o delgadas, esquinas o
@@ -696,17 +669,17 @@ puertas.
 - Utilizar accesorios para sortear las dificultades antes mencionadas.
 
 
-### Trabajos en zonas humedas
+### Trabajos en zonas húmedas
 Debido a que el agua es buen conductor de la electricidad debe
 prestarse especial cuidado en las medidas preventivas:
 
 - Puesta a tierra de las masas metálicas
 - Calzado de lata resistencia eléctrica
-- Revisar que no hau acumulaciones de agua en cuadros electricos y cajas
+- Revisar que no hay acumulaciones de agua en cuadros eléctricos y cajas
 
 
 ### Trabajos en tensión
-Solo deberan realizarse por personal especializado y en algunas 
+Solo deberán realizarse por personal especializado y en algunas 
 ocasiones también deben ensayarse previamente. Finalmente en los casos
 en los que estos trabajos se hagan en lugares remotos o mal comunicados
 es necesaria la presencia de dos trabajadores.
@@ -716,7 +689,7 @@ con protección aislante, las herramientas serán aisladas eléctricamente
 para potenciales de hasta 1kV. Y con los EPIs necesarios. Además se
 deberá contar con formación especifica.
 
-Si hay condensadores (al poder estos acumular energía), se procedera del
+Si hay condensadores (al poder estos acumular energía), se procederá del
 siguiente modo:
 
 1. Desconexión mediante maniobra visible.
@@ -729,7 +702,7 @@ Los lugares con riesgo de explosión son aquellos en los que se pueden
 llegar a generar atmósferas explosivas, como:
 
 * Garajes y talleres de reparación
-* Lavanderías y tintorerias con lavado en seco
+* Lavanderías y tintorerías con lavado en seco
 * Zonas de tratamiento de textiles
 * Industrias de procesado de madera
 * Lugares con trasvases de líquidos inflamables
@@ -740,7 +713,7 @@ aire.
 
 Además se contará con equipos detectores de atmósferas explosivas.
 
-Los trabajos en instalaciones eléctircas en estos lugares se harán sin 
+Los trabajos en instalaciones eléctricas en estos lugares se harán sin 
 tensión, incluso un cambio de bombilla.
 
 Se comprobará con mayor frecuencia el buen estado de las instalaciones.
@@ -782,7 +755,7 @@ utilizando EPIs adecuados.
 
 ### Contactos eléctricos indirectos
 Se evitarán con las medidas siguientes:
-* Puesta a tierra de los elementos metalicos de los equipos eléctricos
+* Puesta a tierra de los elementos metálicos de los equipos eléctricos
 * Uso de interruptores diferenciales
 * Uniones equipotenciales
 * Uso de equipos con doble aislamiento

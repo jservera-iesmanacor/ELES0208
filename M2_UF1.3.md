@@ -208,8 +208,19 @@ Arqueta de hormigón prefabricado o de fábrica de obra, enterrada en la vía p�
 
 La ICT prescribe unas medidas según el número de usuarios, siendo la más comun 400x400x600mm (LxAxP), para hasta 20 viviendas.
 
+<p align="center"><img src="img/arquetas-telf.png"></p>
+
 
 ### Registros de enlace inferior
 
 Al igual que RTV se utilizan cuando las distancias son importantes o cuando hay cambios bruscos de dirección.
 
+<p align="center"><img src="img/reg-enlace.png"></p>
+
+
+### Registro principal
+
+Ubicado en el RITI, ss una caja del mismo tipo que los registros de enlace, aunque destinado a albergar las primeras regletas.
+
+<p align="center"><img src="img/reg-ppal-telf.png"></p>
+<p align="center"><img src="img/reg-abierto-tlf.jpg"></p>
